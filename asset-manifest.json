@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/FAM/static/css/main.e4b6eb3c.css",
+    "main.js": "/FAM/static/js/main.c32f135a.js",
+    "static/js/787.b679084b.chunk.js": "/FAM/static/js/787.b679084b.chunk.js",
+    "static/media/a3.jpg": "/FAM/static/media/a3.f6816bc4b9f2f0716d35.jpg",
+    "static/media/a1.jpg": "/FAM/static/media/a1.242d7a18010603f9f699.jpg",
+    "static/media/a2.jpg": "/FAM/static/media/a2.1335fe8d0bc2eb829bdf.jpg",
+    "static/media/fam-removebg-preview.png": "/FAM/static/media/fam-removebg-preview.a0a4c5639dec798f0bbf.png",
+    "static/media/c4.jpg": "/FAM/static/media/c4.244ff4be7ad5b3f568ad.jpg",
+    "static/media/c1.jpg": "/FAM/static/media/c1.1576e6e5f2ef2b9565a6.jpg",
+    "static/media/c5.jpg": "/FAM/static/media/c5.842374a1cbb65142cf20.jpg",
+    "static/media/424906607_371211172391747__n.jpg": "/FAM/static/media/424906607_371211172391747_2532641992234494639_n.42028fa04033a1879333.jpg",
+    "static/media/istockphoto-1438238504-612x612.jpg": "/FAM/static/media/istockphoto-1438238504-612x612.61f305b8102c871ea753.jpg",
+    "static/media/calendar-2024-week-start-sunday-fun-modern-design-planner-template-hype-style-office-wall_762686-341.png": "/FAM/static/media/calendar-2024-week-start-sunday-fun-modern-design-planner-template-hype-style-office-wall_762686-341.c68cf5ec179550cb9ad1.png",
+    "static/media/c6.jpg": "/FAM/static/media/c6.8926f2cfe25b472455c7.jpg",
+    "static/media/c7.jpg": "/FAM/static/media/c7.33ae387e4580fb1a2959.jpg",
+    "static/media/c2.jpg": "/FAM/static/media/c2.e519beb996a3b4364d49.jpg",
+    "static/media/c3.jpg": "/FAM/static/media/c3.ee393dc2e823ddaaccc4.jpg",
+    "index.html": "/FAM/index.html",
+    "main.e4b6eb3c.css.map": "/FAM/static/css/main.e4b6eb3c.css.map",
+    "main.c32f135a.js.map": "/FAM/static/js/main.c32f135a.js.map",
+    "787.b679084b.chunk.js.map": "/FAM/static/js/787.b679084b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4b6eb3c.css",
+    "static/js/main.c32f135a.js"
+  ]
+}
